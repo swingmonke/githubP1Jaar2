@@ -1,0 +1,9 @@
+CorrelationId: 0cf258bf-b707-4b64-85a4-6f696202b3e5
+UTC DateTime: 10/28/2025 10:08:31
+
+The following files/folders have not been downloaded
+0. Wordle/Wordle/obj/Debug/net9.0/staticwebassets.references.upToDateCheck.txt
+1. Wordle/Wordle/obj/Debug/net9.0/staticwebassets.removed.txt
+2. Wordle/Wordle/obj/Debug/net9.0/Wordle.csproj.BuildWithSkipAnalyzers
+3. Wordle/Wordle/obj/Debug/net9.0/Wordle.csproj.Up2Date
+4. Wordle/Wordle/obj/Debug/net9.0/Wordle.MvcApplicationPartsAssemblyInfo.cache
